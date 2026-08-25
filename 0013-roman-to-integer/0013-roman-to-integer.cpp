@@ -1,26 +1,37 @@
 class Solution {
+private:
+    // Helper function is significantly faster than unordered_map lookup
+    inline int getValue(char c) {
+        switch (c) {
+            case 'I': return 1;
+            case 'V': return 5;
+            case 'X': return 10;
+            case 'L': return 50;
+            case 'C': return 100;
+            case 'D': return 500;
+            case 'M': return 1000;
+            default: return 0;
+        }
+    }
+
 public:
     int romanToInt(string s) {
-        unordered_map<char,int> mp = {
-            {'I',1},
-            {'V',5},
-            {'X',10},
-            {'L',50},
-            {'C',100},
-            {'D',500},
-            {'M',1000}
-        };
-        int n = s.length();
         int total = 0;
-        for(int i=n-1;i>=0;i--)
-        {
-            if(i < n-1 && mp[s[i]]<mp[s[i+1]])
-                total -= mp[s[i]];
-            else
-                total += mp[s[i]];
+        int prevValue = 0;
+
+        // Traverse right-to-left without looking ahead in memory
+        for (int i = s.length() - 1; i >= 0; i--) {
+            int currValue = getValue(s[i]);
+
+            if (currValue < prevValue) {
+                total -= currValue;
+            } else {
+                total += currValue;
+            }
+
+            prevValue = currValue; // Store previous character value directly
         }
 
-        cout << "The value for the roman numeral is:" << total << endl;
         return total;
     }
 };
