@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/kai-jsx/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/kai-jsx/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/kai-jsx/Leetcode/tree/main/0066-plus-one/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kai-jsx/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/kai-jsx/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0066-plus-one](https://github.com/kai-jsx/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kai-jsx/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kai-jsx/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Stack
