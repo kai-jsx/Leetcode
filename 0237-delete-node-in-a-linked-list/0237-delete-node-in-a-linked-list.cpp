@@ -11,6 +11,6 @@ public:
         node->next = node->next->next;
         
         // 4. Free memory
-        //delete temp;
+        delete temp;
     }
 };
