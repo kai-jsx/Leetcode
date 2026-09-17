@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kai-jsx/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kai-jsx/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/kai-jsx/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/kai-jsx/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kai-jsx/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kai-jsx/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/kai-jsx/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0283-move-zeroes](https://github.com/kai-jsx/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kai-jsx/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/kai-jsx/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kai-jsx/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
