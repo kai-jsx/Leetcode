@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kai-jsx/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/kai-jsx/Leetcode/tree/master/0125-valid-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/kai-jsx/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kai-jsx/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kai-jsx/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/kai-jsx/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/kai-jsx/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kai-jsx/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/kai-jsx/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kai-jsx/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Math
@@ -97,8 +99,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/kai-jsx/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kai-jsx/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/kai-jsx/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kai-jsx/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 <!---LeetCode Topics End-->
