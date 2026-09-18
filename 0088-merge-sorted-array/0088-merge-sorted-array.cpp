@@ -5,20 +5,16 @@ public:
         vector<int> result;
         while (i < m && j < n) {
             if (nums1[i] < nums2[j]) {
-                result.push_back(nums1[i]);
-                i++;
+                result.push_back(nums1[i++]);
             } else {
-                result.push_back(nums2[j]);
-                j++;
+                result.push_back(nums2[j++]);
             }
         }
         while (i < m) {
-            result.push_back(nums1[i]);
-            i++;
+            result.push_back(nums1[i++]);
         }
         while (j < n) {
-            result.push_back(nums2[j]);
-            j++;
+            result.push_back(nums2[j++]);
         }
 
         nums1 = result;
