@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kai-jsx/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/kai-jsx/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/kai-jsx/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kai-jsx/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kai-jsx/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kai-jsx/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/kai-jsx/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kai-jsx/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kai-jsx/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
