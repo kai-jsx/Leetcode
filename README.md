@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kai-jsx/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/kai-jsx/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/kai-jsx/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0645-set-mismatch](https://github.com/kai-jsx/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kai-jsx/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/kai-jsx/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kai-jsx/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kai-jsx/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/kai-jsx/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/kai-jsx/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0645-set-mismatch](https://github.com/kai-jsx/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1470-shuffle-the-array](https://github.com/kai-jsx/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kai-jsx/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/kai-jsx/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/kai-jsx/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0645-set-mismatch](https://github.com/kai-jsx/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kai-jsx/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/kai-jsx/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/kai-jsx/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
