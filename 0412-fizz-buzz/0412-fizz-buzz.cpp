@@ -1,17 +1,36 @@
+#include <vector>
+#include <string>
+
 class Solution {
 public:
     vector<string> fizzBuzz(int n) {
         vector<string> fb;
+        fb.reserve(n); // 1. Pre-allocate memory to avoid vector reallocations
+
+        int count3 = 0;
+        int count5 = 0;
+
         for (int i = 1; i <= n; i++) {
-            if (i % 3 == 0 && i % 5 == 0)
-                fb.push_back("FizzBuzz");
-            else if (i % 3 == 0)
-                fb.push_back("Fizz");
-            else if (i % 5 == 0)
-                fb.push_back("Buzz");
-            else
-                fb.push_back(to_string(i));
+            count3++;
+            count5++;
+            string s = "";
+
+            // 2. Use counters instead of the expensive modulo (%) operator
+            if (count3 == 3) {
+                s += "Fizz";
+                count3 = 0;
+            }
+            if (count5 == 5) {
+                s += "Buzz";
+                count5 = 0;
+            }
+
+            if (s.empty()) {
+                s = to_string(i);
+            }
+
+            fb.push_back(s);
         }
-        return (fb);
+        return fb;
     }
 };
