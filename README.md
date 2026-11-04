@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kai-jsx/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/kai-jsx/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/kai-jsx/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0509-fibonacci-number](https://github.com/kai-jsx/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kai-jsx/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kai-jsx/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Array
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kai-jsx/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/kai-jsx/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0509-fibonacci-number](https://github.com/kai-jsx/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/kai-jsx/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/kai-jsx/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/kai-jsx/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/kai-jsx/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kai-jsx/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/kai-jsx/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
