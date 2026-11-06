@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kai-jsx/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/kai-jsx/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/kai-jsx/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/kai-jsx/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0645-set-mismatch](https://github.com/kai-jsx/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kai-jsx/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kai-jsx/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kai-jsx/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/kai-jsx/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/kai-jsx/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/kai-jsx/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/kai-jsx/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/kai-jsx/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/kai-jsx/Leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/kai-jsx/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/kai-jsx/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0645-set-mismatch](https://github.com/kai-jsx/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kai-jsx/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kai-jsx/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -160,13 +163,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/kai-jsx/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kai-jsx/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kai-jsx/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/kai-jsx/Leetcode/tree/main/0169-majority-element/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/kai-jsx/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/kai-jsx/Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
