@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kai-jsx/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/kai-jsx/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kai-jsx/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/kai-jsx/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/kai-jsx/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/kai-jsx/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/kai-jsx/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/kai-jsx/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/kai-jsx/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/kai-jsx/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/kai-jsx/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Counting Sort
