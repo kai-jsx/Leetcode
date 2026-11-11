@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kai-jsx/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/kai-jsx/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/kai-jsx/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/kai-jsx/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/kai-jsx/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kai-jsx/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/kai-jsx/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/kai-jsx/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/kai-jsx/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/kai-jsx/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
