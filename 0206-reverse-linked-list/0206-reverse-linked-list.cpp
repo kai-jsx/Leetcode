@@ -24,3 +24,7 @@ public:
 
     }
 };
+
+//Take two pointers first, initialise one with null and other with the head. With each iteration reverse the pointing direction of one node.
+//Take help of a third node inside the loop which keeps the record of the next node whose linking direction is to be reversed.
+//With each loop interation the first two pointers move forward by a step making room for the next interation to take place.
