@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kai-jsx/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kai-jsx/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kai-jsx/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/kai-jsx/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/kai-jsx/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/kai-jsx/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/kai-jsx/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -197,5 +198,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/kai-jsx/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/kai-jsx/Leetcode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
